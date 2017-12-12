@@ -1,0 +1,23 @@
+name: "ACPR 2019 Organising Committee"
+author: "ACPR 2019 Organising Committee"
+baseurl: https://acpr2019.github.io
+description: "5th Asian Conference on Pattern Recognition"
+
+##Make sure to edit the above fields, especially for disqus.
+
+highlighter: pygments
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables"]
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
