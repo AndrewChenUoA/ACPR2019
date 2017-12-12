@@ -1,11 +1,11 @@
 name: "ACPR 2019 Organising Committee"
 author: "ACPR 2019 Organising Committee"
-baseurl: https://acpr2019.github.io
+baseurl: https://andrewchenuoa.github.io/ACPR2019/
 description: "5th Asian Conference on Pattern Recognition"
 
 ##Make sure to edit the above fields, especially for disqus.
 
-highlighter: pygments
+highlighter: rouge
 markdown: redcarpet
 redcarpet:
   extensions: ["tables"]
