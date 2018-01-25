@@ -73,7 +73,7 @@ p
 
 #wrapper
 {
-  padding-left:250px;
+  padding-left:350px;
   transition:all .5s ease 0
 }
 
@@ -90,8 +90,8 @@ p
 
 #sidebar-wrapper
 {
-  margin-left:-250px;
-  left:250px;
+  margin-left:-350px;
+  left:350px;
   width:350px;
   background:#f8f8f8;
   position:fixed;
