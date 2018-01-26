@@ -727,7 +727,7 @@ time
 
 @media screen and (max-width: 500px) {
   #welcome-greeting h2 {
-   font-size: 15px; 
+   font-size: 2em; 
    transition: all 0.2s ease 0s;
    font-weight: 200;
    line-height: 30px;
